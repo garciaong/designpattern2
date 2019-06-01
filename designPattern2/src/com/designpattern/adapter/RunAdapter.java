@@ -1,4 +1,4 @@
-package com.desginpattern.adapter;
+package com.designpattern.adapter;
 
 public class RunAdapter {
 

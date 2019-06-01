@@ -1,4 +1,4 @@
-package com.designpatterm.singleton;
+package com.designpattern.singleton;
 
 public class RunSingleton {
 
